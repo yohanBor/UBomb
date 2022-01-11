@@ -1,3 +1,6 @@
+(A compiler sous jdk11 avec gradle)
+*
+
 <link rel="stylesheet" href="readme.css">
 
 
