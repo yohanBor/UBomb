@@ -1,0 +1,14 @@
+                          Règles du jeu, ajouts: 
+                          ----------------------
+
+1) Le coffre de pirate : Un pirate est un pro des explosifs !
+   Si vous parvenez à ouvrir ce coffre vous pourrez porter son costume, prendre 10 bombes, et augmenter la portée de 1 .
+
+2) Lorsque le joueur est invincible, il devient noir le temps de l'invincibilité
+
+3) Le téléporteur (présent sur le dernier niveau) agit comme une porte: muni d'une clé, le joueur appuie sur la touche entrée et se téléporte au niveau 1, près de la princesse.
+
+4) La lave présent sur certains niveaux fait perdre un point de vie au joueur sans l'immuniser 1 seconde. 
+
+5) Niveau 3 : Attention un assasin fou vous foncera dessus à toute vitesse ! 
+   Tuer le rapidement pour esperer sauver la princesse.

@@ -1,0 +1,32 @@
+plugins {
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.9'
+}
+
+group 'fr.ubx.poo'
+version '0.1'
+
+repositories {
+    mavenCentral()
+}
+// dependencies {
+//         compile group: 'org.openjfx', name: 'javafx-media', version: '15'
+//     }
+// // <!-- https://mvnrepository.com/artifact/org.openjfx/javafx-media -->
+// <dependency>
+//     <groupId>org.openjfx</groupId>
+//     <artifactId>javafx-media</artifactId>
+//     <version>15</version>
+// </dependency>
+
+// https://mvnrepository.com/artifact/org.openjfx/javafx-media
+// compile group: 'org.openjfx', name: 'javafx-media', version: '15'
+
+javafx {
+    version = "14"
+    modules = [ 'javafx.controls', 'javafx.fxml']
+}
+
+application {
+    mainClass = 'fr.ubx.poo.Main'
+}

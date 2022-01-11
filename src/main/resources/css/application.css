@@ -1,0 +1,45 @@
+.statusBar {
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-border-width: 5px 0 0 0;
+    /* -fx-background-color: red; */
+}
+
+.level {
+    -fx-padding: 5px 10px 5px 10px;
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-border-width: 0 5px 0 0;
+}
+
+.status {
+    -fx-padding: 5px 15px 5px 15px;
+}
+
+.number {
+    -fx-font-size: 28;
+    -fx-font-weight: bold;
+}
+
+#pane1{
+    -fx-background-image: url("grass.png");
+}
+#pane4{
+    -fx-background-image: url("sand.jpg");
+}
+#pane3{
+    -fx-background-image: url("platform1.png");
+    -fx-background-position : 0px -185px; 
+}
+#pane2{
+    -fx-background-image: url("snow.jpg");
+}
+/* Defaite  */
+#red{
+    
+    -fx-background-color : rgba(133, 31, 31, 0.6);
+}
+/* Victoire*/
+#green{
+    -fx-background-color : rgba(59, 179, 35, 0.6);
+}
